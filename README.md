@@ -20,9 +20,12 @@ As you type, Fig pops up subcommands, options, and contextually relevant argumen
 
 * **macOS**:
   * **Homebrew**: `brew install --cask fig`
-  * **DMG**: Download from our website: [fig.io](https://fig.io/download)
+  * **DMG**: Download from our website: [fig.io](https://fig.io/welcome)
 * **Windows/Linux**:
   * Join the [waitlist](https://withfig.typeform.com/linux)
+
+> NOTE: Once it's downloaded, launch the app to set up Fig!
+
 <br/>
 
 ![Demo of Fig's visual autocomplete in a terminal](https://fig.io/gifs/demo-with-header.gif)
@@ -166,11 +169,11 @@ Fig uses the Accessibility API on Mac to position the window, and integrates wit
 
 #### Does Fig work on Windows or Linux?
 
-Not yet, Fig is only available on MacOS for now. [Windows](https://github.com/withfig/fig/issues/35) and [Linux](https://github.com/withfig/fig/issues/34) support is in progress!
+Not yet, Fig is only available on macOS for now. [Windows](https://github.com/withfig/fig/issues/35) and [Linux](https://github.com/withfig/fig/issues/34) support is in progress!
 
 #### How can I download Fig?
 
-Run `brew install fig` or, downloading the app at [fig.io/download](https://fig.io/download). Then, launch the Fig app!
+Run `brew install --cask fig` or, downloading the app at [fig.io/download](https://fig.io/download). Then, launch the Fig app!
 
 #### Can I use Fig to build autocomplete for my team's internal scripts and CLI tools?
 
